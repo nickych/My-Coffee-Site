@@ -27,3 +27,5 @@ window.onscroll = () =>{
     searchForm.classList.remove('active');
     cartItem.classList.remove('active');
 }
+
+const Chibz = document.getelementbyid();
