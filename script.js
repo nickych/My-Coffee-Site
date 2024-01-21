@@ -31,4 +31,5 @@ window.onscroll = () =>{
     cartItem.classList.remove('active');
 }
 
+
 const Chibz = document.getelementbyid();
